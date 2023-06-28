@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/marcolcuu/marco_menu/static/css/main.52f6a847.css",
+    "main.js": "/marcolcuu/marco_menu/static/js/main.dd890bb5.js",
+    "static/js/787.ad945998.chunk.js": "/marcolcuu/marco_menu/static/js/787.ad945998.chunk.js",
+    "static/media/bg.jpg": "/marcolcuu/marco_menu/static/media/bg.1e965be114770be08f55.jpg",
+    "index.html": "/marcolcuu/marco_menu/index.html",
+    "main.52f6a847.css.map": "/marcolcuu/marco_menu/static/css/main.52f6a847.css.map",
+    "main.dd890bb5.js.map": "/marcolcuu/marco_menu/static/js/main.dd890bb5.js.map",
+    "787.ad945998.chunk.js.map": "/marcolcuu/marco_menu/static/js/787.ad945998.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52f6a847.css",
+    "static/js/main.dd890bb5.js"
+  ]
+}
