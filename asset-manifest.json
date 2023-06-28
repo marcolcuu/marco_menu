@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/marcolcuu/marco_menu/static/css/main.52f6a847.css",
-    "main.js": "/marcolcuu/marco_menu/static/js/main.dd890bb5.js",
-    "static/js/787.ad945998.chunk.js": "/marcolcuu/marco_menu/static/js/787.ad945998.chunk.js",
-    "static/media/bg.jpg": "/marcolcuu/marco_menu/static/media/bg.1e965be114770be08f55.jpg",
-    "index.html": "/marcolcuu/marco_menu/index.html",
-    "main.52f6a847.css.map": "/marcolcuu/marco_menu/static/css/main.52f6a847.css.map",
-    "main.dd890bb5.js.map": "/marcolcuu/marco_menu/static/js/main.dd890bb5.js.map",
-    "787.ad945998.chunk.js.map": "/marcolcuu/marco_menu/static/js/787.ad945998.chunk.js.map"
+    "main.css": "/marco-menu/static/css/main.ecc71825.css",
+    "main.js": "/marco-menu/static/js/main.250f169c.js",
+    "static/js/787.ad945998.chunk.js": "/marco-menu/static/js/787.ad945998.chunk.js",
+    "static/media/bg.jpg": "/marco-menu/static/media/bg.1e965be114770be08f55.jpg",
+    "index.html": "/marco-menu/index.html",
+    "main.ecc71825.css.map": "/marco-menu/static/css/main.ecc71825.css.map",
+    "main.250f169c.js.map": "/marco-menu/static/js/main.250f169c.js.map",
+    "787.ad945998.chunk.js.map": "/marco-menu/static/js/787.ad945998.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52f6a847.css",
-    "static/js/main.dd890bb5.js"
+    "static/css/main.ecc71825.css",
+    "static/js/main.250f169c.js"
   ]
 }
